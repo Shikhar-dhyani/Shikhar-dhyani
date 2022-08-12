@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/shikhar dhyani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shikhar dhyani" height="30" width="40" /></a>
 <a href="https://instagram.com/shikhardhyani026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shikhardhyani026" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/shikhar dhyani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shikhar dhyani" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/shikhar_dhyani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shikhar_dhyani" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sdhyani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shikhar_dhyani" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shikhar_dhyani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shikhar_dhyani" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@shikhardhyani025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@shikhardhyani025" height="30" width="40" /></a>
 </p>
