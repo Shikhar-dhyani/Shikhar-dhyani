@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Web development , Machine learning.**
 
 
-- 💬 Ask me about **Frontend development**                                            
+- 💬 Ask me about **Generative AI and Python**                                            
 
 - 📫 How to reach me **shikhardhyani025@gmail.com**
 
