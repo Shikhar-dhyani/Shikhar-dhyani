@@ -99,27 +99,37 @@ A production-grade natural language analytics engine enabling non-technical user
 
 ## 🤝 Connect with Me
 
-<p align="left">
-<a href="https://linkedin.com/in/shikhar-dhyani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shikhar dhyani" height="30" width="40" /></a>
-<a href="https://instagram.com/shikhardhyani026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shikhardhyani026" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/shikhardhyani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shikhar dhyani" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sdhyani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shikhar_dhyani" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shikhar_dhyani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shikhar_dhyani" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@shikhardhyani025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@shikhardhyani025" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/shikhar-dhyani-a697561b7/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="https://www.youtube.com/@shikhardhyani" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>&nbsp;
+  <a href="https://www.codechef.com/users/sdhyani" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>&nbsp;
+  <a href="https://www.leetcode.com/shikhar_dhyani" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>&nbsp;
+  <a href="https://www.hackerearth.com/@shikhardhyani025" target="_blank">
+    <img src="https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth" />
+  </a>&nbsp;
+  <a href="mailto:shikhardhyani025@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shikhar-dhyani&show_icons=true&locale=en&layout=compact&theme=default" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shikhar-dhyani&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" height="170" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=shikhar-dhyani&show_icons=true&locale=en&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" height="170" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shikhar-dhyani&show_icons=true&locale=en&theme=default" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shikhar-dhyani" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shikhar-dhyani&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </p>
