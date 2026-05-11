@@ -101,11 +101,5 @@ I'm a **Generative AI Engineer at [ClicFlyer](https://www.clicflyer.com/)**, a r
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shikhar-dhyani&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" height="170" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=shikhar-dhyani&show_icons=true&locale=en&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" height="170" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shikhar-dhyani&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </p>
